@@ -11,13 +11,12 @@ Línea 10: Sólo los nombres de clases se escriben con mayúsculas, sicriminante
 
 Línea 10: El resultado de la operacon es un numero decimal, long no abarca numeros decimales. Cambiamos a double
 
-Linea 12: LAs mayúsculas se reservan para las clases, estamos definiendo un tipo de dato, por lo que este va en minúsculas. Cambiamos el nombre de Char por una minúscula inicial
+Linea 12: Las mayúsculas se reservan para las clases, estamos definiendo un tipo de dato, por lo que este va en minúsculas. Cambiamos el nombre de Char por una minúscula inicial
 
 Linea 13: No se especificaba cuál era la variable que se estaba definiendo. Se agrega la especificacion de que estamos definiendo la variable ch1
 
 Linea 13: El valor de char2 está entre comillas, estos se definen entre una comilla simpple. Cambiamos a 'w'
 
-Línea 14: Se declara que a -3 pero a=3 se da una división entre 0 lo cual es indefinible. Cambiamos a a +3
 
-Linea 14: Se declara el resultado de la división como enteros, sin embargo, el resultado es un decimal. Cambia el valor de enetero a float
+Linea 14: Se declara el resultado de la división como enteros, sin embargo, el resultado es un decimal. Cambia el valor de entero a float
 
