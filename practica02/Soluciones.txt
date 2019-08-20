@@ -1,22 +1,22 @@
 
 Línea 6: Se escribió booleaN de manera incorrecta, cambiar a todas minúsculas
 
-Línea 6: El tipo de dato boolean solo tiene valores true o false, por lo tanto, no se le puede asignar un 0. Cambiar tipo de dato a entero
+Línea 6: El tipo de dato boolean solo tiene valores true o false, por lo tanto, no se le puede asignar un 0. Cambiar el valor  false
 
 Línea 7: El byte tiene rangos de valor hasta 127, por lo tanto, 128 no entra en ello. Reducir 1 el valor 
 
 Línea 8: El short admite valores desde -32768, por lo tanto -32769 se sale del rango. Añadimos 1
 
-Línea 10: Sólo los nombres de clases se escriben con mayúsculas, sicriminante es variable. Cambiamos la primera letra de la palabra Discriminante a minúsculas
+Línea 10: Sólo los nombres de clases se escriben con mayúsculas, dicriminante es variable. Cambiamos la primera letra de la palabra Discriminante a minúsculas
 
-Línea 10: El resultado de la operacon es un numero decimal, long no abarca numeros decimales. Cambiamos a double
+Línea 10: El resultado de la operación es un numero decimal, long no abarca numeros decimales. Cambiamos a double
 
 Linea 12: Las mayúsculas se reservan para las clases, estamos definiendo un tipo de dato, por lo que este va en minúsculas. Cambiamos el nombre de Char por una minúscula inicial
 
-Linea 13: No se especificaba cuál era la variable que se estaba definiendo. Se agrega la especificacion de que estamos definiendo la variable ch1
+Linea 13: No se especificaba cuál era la variable que se estaba definiendo. Se agrega la especificación de que estamos definiendo la variable ch1
 
 Linea 13: El valor de char2 está entre comillas, estos se definen entre una comilla simpple. Cambiamos a 'w'
 
 
-Linea 14: Se declara el resultado de la división como enteros, sin embargo, el resultado es un decimal. Cambia el valor de entero a float
+Linea 14: Se declara el resultado como división entre 0, entonces se cambia el valor para evitar eso
 
