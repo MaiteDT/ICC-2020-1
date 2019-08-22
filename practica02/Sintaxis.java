@@ -6,7 +6,7 @@ public class Sintaxis {
 		int a, b = 20, c;
 		a = 3; c = -7;
 
-		int prop = 0;
+		boolean prop = false;
 		byte ochoBits = 127;
 		short dieciseisBits = -32768;
 
@@ -16,11 +16,11 @@ public class Sintaxis {
 
 		char ch1, ch2;
 		ch1 = 'g'; ch2 = 'w';
-		float d = 1 / (a - 3);
+		int d = 1 / (a - 3);
 
 		// Declaraciones
-		int var_1 = 2147483648
-		char quote = "\'"
+		long var_1 = 2147483647+1;
+		char quote = '\'';
 		
 	}
 
