@@ -1,5 +1,0 @@
-2. Con los 2 guiones se decrementa 1 a la variable, sin embargo, cuando se ponen primero los guiones y después la variable, se resta a x y después se imprime, cuando se pone la variable primero y después los guiones, se imprime el valor de la variable y después se hace el decremento.
-
-3. En la variable dividendoEntero, se declara como entero, entonces el resultado que devuela va ser sólo un entero, es decir 7. En dividendoReal, este se declara como double, esto permite que el resultado incluya decimales y el resultado sea más exacto
-
-
