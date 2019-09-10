@@ -19,14 +19,14 @@ public double obtenerTemperaturaEnCelsius(){
 	if (escala==CELSIUS){
 	return valor;
 	}else {
-	return valor.convertirACelsius;
+	return convertirACelsius(valor);
 	}
 	}
 public double obtenerTemperaturaEnFahrenheit(){
 	if (escala==FAHRENHEIT){
 	return valor;
 	}else {
-	return valor.convertirAFahrenheit;
+	return convertirAFahrenheit(valor);
 	}
 	}
 public boolean esIgual(Temperatura temp){
